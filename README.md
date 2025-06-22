@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURAIYA</h1>
-<h3 align="center">🚀 Front-End Developer | Passionate Student | Creative Coder</h3>
+<h3 align="center">🚀 Passionate Student | Creative Coder</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coder gif">
